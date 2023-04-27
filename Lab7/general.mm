@@ -1,0 +1,7 @@
+$pos 1
+ISZ 001
+DEC
+BMI 005
+NOP
+ADD 001
+HLT
